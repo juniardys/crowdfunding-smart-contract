@@ -24,3 +24,9 @@ Test:
 ```shell
 npx hardhat test
 ```
+
+Run Local Node:
+
+```shell
+npx hardhat node
+```
